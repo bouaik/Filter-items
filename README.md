@@ -2,7 +2,7 @@
 
 > Filter items by thier category
 
-![screenshot](captured.gif)
+![screenshot](https://s8.gifyu.com/images/captured.gif)
 
 ## Built With
 
